@@ -1,5 +1,5 @@
 # Temp
 test
 
-Done With Amelia Shi & Lionel Liang.
+Design by Mingyang Shi & Lionel Liang.
 Thanks!
